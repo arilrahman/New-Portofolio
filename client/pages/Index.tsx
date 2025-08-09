@@ -42,7 +42,7 @@ export default function Index() {
       description: "A Laravel-based task management web app I built to help users manage their final assignments in a more structured and efficient way.",
       technologies: ["Laravel", "PHP", "MySQL", "Bootstrap"],
       image: "https://cdn.builder.io/api/v1/image/assets%2Fc8137230b4634424997bef63129279d1%2F76a09a5ddd544c6384747bd345661459?format=webp&width=800",
-      link: "https://studybuddy-laravel.vercel.app/",
+      link: "https://studdybuddy.kesug.com/public",
       github: "https://github.com/arilrahman/StudyBuddy"
     },
     {
